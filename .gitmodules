@@ -1,3 +1,3 @@
 [submodule "ynoviot_esp32"]
 	path = ynoviot_esp32
-	url = https://github.com/TheFirehawk33/ynoviot_esp32
+	url = git@github.com:TheFirehawk33/ynoviot_esp32.git
