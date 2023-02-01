@@ -4,3 +4,7 @@
 [submodule "Tirelire"]
 	path = Tirelire
 	url = git@github.com:Joktaa/Tirelire.git
+[submodule "tirelireDuFutur_Serveur"]
+	path = tirelireDuFutur_Serveur
+	url = git@github.com:Saiiga/tirelireDuFutur_Serveur.git
+
